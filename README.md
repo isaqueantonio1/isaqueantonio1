@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @isaqueantonio1
-- 👀 I’m interested in front-end(HTML,JAVASCRIPT CSS). Back-end (C#, Csharp)
+- 👀 I’m interested in front-end(HTML,JAVASCRIPT CSS). Back-end (C#, Csharp) and Python.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on HTML, JAVASCRIPT E CSS
 - 📫 How to reach me: isaque.antonio@unifaat.edu.br, and WhatsApp (11)997324224.
